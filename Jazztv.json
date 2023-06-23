@@ -1,10 +1,13 @@
 {
-  "Visibility": "INVISIBLE",
-  "Title": "Hello Guys",
-  "Description": "Apko Yahan Pr Apps Ki Update Mile Gi",
+  "Visibility": "VISIBLE",
+  "Title": "UPDATE NOW",
+  "Description": "•New Ui Improvements 
+•Fixed notification icon that was not showing in small screen
+•Slider improve
+Bugs fixed",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://www.example.com",
+  "DownloadLink": "https://github.com/hamzalasharib/hamza-bot/raw/master/lasharitv%20V1.1.apk",
   "Version": "1.1"
 }
