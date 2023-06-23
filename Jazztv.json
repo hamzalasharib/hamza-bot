@@ -3,8 +3,8 @@
   "Title": "UPDATE NOW",
   "Description": "New Ui Improvements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed\nBackground notification feature added even app is not opened",
   "MainTextButton": "Update",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://raw.githubusercontent.com/hamzalasharib/hamza-bot/master/lasharitv.apk",
-  "Version": "1.0"
+  "Version": "1.1"
 }
