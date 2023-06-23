@@ -1,10 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "UPDATE NOW",
-  "Description": "•New Ui Improvements 
-•Fixed notification icon that was not showing in small screen
-•Slider improve
-Bugs fixed",
+  "Description": "New Ui Improvements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
