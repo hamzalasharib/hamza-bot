@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "UPDATE NOW",
-  "Description": "New Ui Improvements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed\nBackground notification feature added even app is not opened\nFixed video not playing in higher version\nAdded share button ",
+  "Description": "Update Date 10July2023\nList Animation\nImprovements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed\nBackground notification feature added even app is not opened\nFixed video not playing in higher version\nAdded share button ",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://raw.githubusercontent.com/hamzalasharib/hamza-bot/master/database/LashariTv_1.1.apk",
-  "Version": "1.0"
+  "DownloadLink": "https://raw.githubusercontent.com/hamzalasharib/hamza-bot/master/lasharitvNew.apk",
+  "Version": "1.2"
 }
