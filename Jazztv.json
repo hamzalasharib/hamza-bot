@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "UPDATE NOW",
-  "Description": "Update Date 10July2023\nList Animation\nImprovements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed\nBackground notification feature added even app is not opened\nFixed video not playing in higher version\nAdded share button ",
+  "Description": "Update Date 10July2023\nList Animation\nImprovements \nFixed notification icon that was not showing in small screen\nSlider improve\nBugs fixed\nBackground notification feature added even app is not opened\nFixed video not playing in higher version\nAdded share button",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
