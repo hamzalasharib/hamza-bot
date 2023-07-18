@@ -3,30 +3,36 @@
     "title": "Pk",
     "url": "https://cdn03isb.tamashaweb.com:8087/hls/101530/749RrAzaYCH/smil:mpfour.smil/720p.mp4_chunk.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/programs/1685604042.png?id\u003d83",
-    "discription": "An alien\u0027s view of the world challenges people\u0027s long-held notions, making friends of some, and foes of others."
+    "discription": "An alien\u0027s view of the world challenges people\u0027s long-held notions"
   },
   {
     "title": "Love Ke Liye Kuch Bhi Karega",
     "url": "https://cdn06lhr.tamashaweb.com:8087/hls/100846/rJs1ZX11VS6/smil:mpfour.smil/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/programs/1682506854.png",
-    "discription": "Desperate for money, three men (Saif Ali Khan, Fardeen Khan) plot to kidnap a woman (Sonali Bendre) and hold her for ransom."
+    "discription": "Desperate for money, three men plot to kidnap a woman"
   },
   {
     "title": "Punjab Nahi Jaungi",
     "img": "https://jazztv.pk/jazzlive/uploads/programs/1664518129.png",
     "url": "https://cdn06lhr.tamashaweb.com:8087/hls/100212/n41lLwTI9On/smil:mpfour.smil/720p.mp4_chunk.m3u8",
-    "discription": "A rom-com movie about Fawad and his quest to win the love of Amal at all costs despite belonging to two different worlds."
+    "discription": "A rom-com movie about Fawad and his quest to win the love."
   },
   {
     "title": "Jawani Phir Nahi Ani",
     "img": "https://jazztv.pk/jazzlive/uploads/programs/1663662967.png",
     "url": "https://cdn03isb.tamashaweb.com:8087/hls/100213/bxEVK2tFeSP/smil:mpfour.smil/720p.mp4_chunk.m3u8",
-    "discription": "Will things get out of control when a single divorce lawyer takes his three married friends for a party vacation to Bangkok?"
+    "discription": "Will things get out of control when a single divorce lawyer takes his three married friends for a party"
   },
   {
     "title": "Jawani Phir Nahi Ani 2",
     "img": "https://jazztv.pk/jazzlive/uploads/programs/1663939613.png",
     "url": "https://cdn03khi.tamashaweb.com:8087/hls/100211/rntfirwwJGZ/smil:mpfour.smil/720p.mp4_chunk.m3u8",
-    "discription": "The boys are back, but this time the party is in Turkey. Enjoy this blockbuster movie full of humor, romance and twists."
+    "discription": "The boys are back, but this time the party is in Turkey"
+  },
+  {
+    "title": "Khatta Meetha",
+    "img": "https://jazztv.pk/jazzlive/uploads/programs/1687784041.png",
+    "url": "https://cdn03khi.tamashaweb.com:8087/hls/102064/DRFdxjkmRi7/smil:mpfour.smil/720p.mp4_chunk.m3u8",
+    "discription": "A Funny Movie of Akshay Kumar"
   }
-]
+    ]
