@@ -1,18 +1,13 @@
 [
-    {
-    "title": "PakVsSrAdsFree",
-    "url": "https://cdn02lhr.tamashaweb.com:8087/tamashatest/PAK-SL-HD/chunks.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/1689241538-logo.png?id=98"
-  },
-    {
-    "title": "PakVsSr",
-    "url": "https://cdn05khi.tamashaweb.com:8087/tamashatest/PAK-SL-FREE/chunks.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/1689243010-logo.png?id=17"
+  {
+    "title": "Asia Cup",
+    "url": "https://cdn04lhr.tamashaweb.com:8087/tamashatest/ASIA-CUP-abr/live/ASIA-CUP-abr_720p/chunks.m3u8",
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/1691225930.png"
   },
   {
     "title": "MADNI TV",
     "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/Madni-abr/playlist.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/madani-channel-live.png?id=14"
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/madani-channel-live.png?id\u003d14"
   },
   {
     "title": "MAKKAH TV",
@@ -27,7 +22,7 @@
   {
     "title": "DHA-MATCH",
     "url": "https://cdn05khi.tamashaweb.com:8087/tamashatest/DHA-source-abr/live/DHA-source_720p/chunks.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/1688631993-logo.png?id=34"
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/1688631993-logo.png?id\u003d34"
   },
   {
     "title": "TEN SPORTS",
@@ -434,17 +429,17 @@
     "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/176M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/movie-one-live.png"
   },
-{
+  {
     "title": "AanTv",
     "url": "https://cdn02khi.tamashaweb.com:8087/tamashatest/AAN-TV-abr/live/163H/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1681977574-logo.png"
   },
-{
+  {
     "title": "SabTv",
     "url": "https://cdn23lhr.tamashaweb.com:8087/tamashatest/SabTV-abr/live/79-M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1686044497-logo.png"
   },
-{
+  {
     "title": "PTV",
     "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/174M/chunks.m3u8",
     "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.png"
