@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pak Vs Afg",
+    "url": "https://cdn07lhr.tamashaweb.com:8087/tamashatest/PAK-AFG-HD-abr/playlist.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1692639723-logo.png"
+  },
+  {
     "title": "Asia Cup",
     "url": "https://cdn04lhr.tamashaweb.com:8087/tamashatest/ASIA-CUP-abr/live/ASIA-CUP-abr_720p/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1691225930.png"
@@ -444,4 +449,4 @@
     "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/174M/chunks.m3u8",
     "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.png"
   }
-]
+    ]
