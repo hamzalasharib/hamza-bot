@@ -1,452 +1,447 @@
 [
   {
-    "title": "Pak Vs Afg",
-    "url": "https://cdn07lhr.tamashaweb.com:8087/tamashatest/PAK-AFG-HD-abr/playlist.m3u8",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1692639723-logo.png"
-  },
-  {
     "title": "Asia Cup",
-    "url": "https://cdn04lhr.tamashaweb.com:8087/tamashatest/ASIA-CUP-abr/live/ASIA-CUP-abr_720p/chunks.m3u8",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1691225930-logo.webp"
+    "url": "https://cdn04lhr.tamashaweb.com:8087/tamasha-dispersa-2/ASIA-CUP-abr/live/ASIA-CUP-abr_720p/chunks.m3u8",
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/1691225930.png"
   },
   {
     "title": "MADNI TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/Madni-abr/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/Madni-abr/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/madani-channel-live.png?id\u003d14"
   },
   {
     "title": "MAKKAH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/142M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/142M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/saudi-quran-makkah-tv-hd-live.png"
   },
   {
     "title": "MADINA TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/141M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/141M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/saudi-sunnah-madinah-tv-hd-live.png"
   },
   {
     "title": "DHA-MATCH",
-    "url": "https://cdn05khi.tamashaweb.com:8087/tamashatest/DHA-source-abr/live/DHA-source_720p/chunks.m3u8",
+    "url": "https://cdn05khi.tamashaweb.com:8087/tamasha-dispersa-2/DHA-source-abr/live/DHA-source_720p/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1688631993-logo.png?id\u003d34"
   },
   {
     "title": "TEN SPORTS",
-    "url": "https://cdn01khi.tamashaweb.com:8087/tamashatest/157-3M/chunks.m3u8",
+    "url": "https://cdn01khi.tamashaweb.com:8087/tamasha-dispersa-2/157-3M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/tensports.png"
   },
   {
     "title": "EURO SPORTS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/157-1M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/157-1M/playlist.m3u8",
     "img": "https://i.postimg.cc/mgG9N3R0/Eurosports.png"
   },
   {
     "title": "FORMULA 1",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/f1grandprix-abr/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/f1grandprix-abr/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/formula-1-logo.png"
   },
   {
     "title": "CARTOON NETWORK",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/87M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/87M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/cartoon-network-live.png"
   },
   {
     "title": "BABY TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/77M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/77M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/baby-tv-live.png"
   },
   {
     "title": "ARY NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/83M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/83M/playlist.m3u8",
     "img": "https://i.postimg.cc/2j7yKGCj/Arynews.jpg"
   },
   {
     "title": "GEO NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/137M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/137M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/geo-news-live.png"
   },
   {
     "title": "DUNYA NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/113M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/113M/playlist.m3u8",
     "img": "https://i.postimg.cc/50McZV6H/Dunya-News.jpg"
   },
   {
     "title": "SAMAA NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/173M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/173M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/samaa-tv-live.png"
   },
   {
     "title": "A PLUS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/118M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/118M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/a-plus-live.png"
   },
   {
     "title": "ARY DIGITAL",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/84M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/84M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/ary-digital-live-logo.png"
   },
   {
     "title": "ARY ZINDAGI",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/85M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/85M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.png"
   },
   {
     "title": "GEO TV",
-    "url": "https://cdn24lhr.tamashaweb.com:8087/tamashatest/GeoEntertainment-abr/live/122M/chunks.m3u8",
+    "url": "https://cdn24lhr.tamashaweb.com:8087/tamasha-dispersa-2/GeoEntertainment-abr/live/122M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/geo-entertainment-live.png"
   },
   {
     "title": "HUM TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/82M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/82M/playlist.m3u8",
     "img": "https://srv2.jazztv.pk/jazzlive/uploads/channels/logo/HUM-TV-Channel-logo.png"
   },
   {
     "title": "HUM SITARAY",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/157-4M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/157-4M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.png"
   },
   {
     "title": "HUM MASALA",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/81M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/81M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/HUM-Masala-Channel-logo.png"
   },
   {
     "title": "AJJ ENTERTAINMENT",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/125M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/125M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/aaj-entertainment-live.png"
   },
   {
     "title": "BOL ENTERTAINMENT",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/159-4M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/159-4M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/bol-entertainment-live.png"
   },
   {
     "title": "PLAY TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/154M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/154M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/play-tv-live.png"
   },
   {
     "title": "EXPRESS ENTERTAINMENT",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/159-1M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/159-1M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/express-entertainment-live.png"
   },
   {
     "title": "TV ONE",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/129M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/129M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/tv-one-live.png"
   },
   {
     "title": "URDU 1",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/158-4M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/158-4M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/urdu-1-live.png"
   },
   {
     "title": "APNA CHANNEL",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/134M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/134M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/apna-tv-live.png"
   },
   {
     "title": "SEE TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/156M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/156M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/see-tv-live.png"
   },
   {
     "title": "ITN FAMILY",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/158-2M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/158-2M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/ltn-family-live.png"
   },
   {
     "title": "ARUJ TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/117M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/117M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/aruj-live.png"
   },
   {
     "title": "LAHORE RANG",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/179M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/179M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/lahore-rang-logo.png"
   },
   {
     "title": "EXPRESS NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/155M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/155M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/express-news-live.png"
   },
   {
     "title": "HUM NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/80M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/80M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/HUM-News-Channel-logo.png"
   },
   {
     "title": "BOL NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/159-3M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/159-3M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/bol-news-live.png"
   },
   {
     "title": "NEWS 1",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/128M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/128M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/news-one-live.png"
   },
   {
     "title": "PUBLIC NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/115M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/115M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/public-news-live.png"
   },
   {
     "title": "ABB TAK",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/133M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/133M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/abb-takk-news-live.png"
   },
   {
     "title": "Dawn News",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/152M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/152M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/dawn-news-live.png"
   },
   {
     "title": "NEO TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/110M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/110M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/neo-tv-live.png"
   },
   {
     "title": "MEHRAN TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/159-2M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/159-2M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/mehran-tv-logo.png"
   },
   {
     "title": "GNN NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/181M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/181M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/gnn-live.png"
   },
   {
     "title": "AJJ NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/124M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/124M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/aaj-news-live.png"
   },
   {
     "title": "DIN NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/145M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/145M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/din-news-live.png"
   },
   {
     "title": "CNN NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/86M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/86M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/cnn-news-live.png"
   },
   {
     "title": "SUCH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/183M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/183M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/such-tv-live.png"
   },
   {
     "title": "WASEB TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/130M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/130M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/waseb-live.png"
   },
   {
     "title": "KOHENOOR TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/157-2M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/157-2M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/kohenoor-tv-live.png"
   },
   {
     "title": "24 NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/146M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/146M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/channel-24-live.png"
   },
   {
     "title": "MASHRIQ TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/109M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/109M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/mashriq-tv-live.png"
   },
   {
     "title": "FIVE NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/159-4M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/159-4M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/channel-five-live.png"
   },
   {
     "title": "GTV NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/186M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/186M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/gtv-news-live.png"
   },
   {
     "title": "PNN NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/185M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/185M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/pnn-news-live.png"
   },
   {
     "title": "DW ENGLISH",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/136-4M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/136-4M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/DW-english-live.png"
   },
   {
     "title": "ROHI TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/147M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/147M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/rohi-live.png"
   },
   {
     "title": "CITY41 NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/143M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/143M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/city41-live.png"
   },
   {
     "title": "CITY42 NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/144M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/144M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/city-42-live.png"
   },
   {
     "title": "ROZE NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/139M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/139M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/roze-news-live.png"
   },
   {
     "title": "KTN NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/151M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/151M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/ktn-news-live.png"
   },
   {
     "title": "KTN ENTERTAINMENT",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/149M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/149M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/ktn-entertainment-live.png"
   },
   {
     "title": "SINDH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/136-2M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/136-2M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/sindh-tv-news-live.png"
   },
   {
     "title": "SINDH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/136-1M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/136-1M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/sindh-tv-live.png"
   },
   {
     "title": "TIME NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/172M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/172M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/time-news-live.png"
   },
   {
     "title": "KASHISH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/150M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/150M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/kashish-live.png"
   },
   {
     "title": "DISCOVER PAKISTAN",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/132M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/132M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/discover-pakistan-live-logo.png"
   },
   {
     "title": "METRO NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/175M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/175M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/metro-1-news-live.png"
   },
   {
     "title": "AVT KHYBER",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/114M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/114M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/avt-khyber-tv-live.png"
   },
   {
     "title": "KHYBER NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/160M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/160M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/khyber-news-live.png"
   },
   {
     "title": "HUM PASHTO",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/119M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/119M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/HUM-Pashto-Channel-logo.png"
   },
   {
     "title": "KAY 2",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/127M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/127M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/kay2-tv-live.png"
   },
   {
     "title": "AFGHAN TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/140M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/140M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/afghan-tv-live.png"
   },
   {
     "title": "PUNJAB TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/162M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/162M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/punjab-tv-live.png"
   },
   {
     "title": "K21 NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/116M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/116M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/k21-news-live.png"
   },
   {
     "title": "ATV NEWS",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/123M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/123M/playlist.m3u8",
     "img": "https://i.postimg.cc/8zVYHVns/image.jpg"
   },
   {
     "title": "VSH TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/112M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/112M/playlist.m3u8",
     "img": "https://i.postimg.cc/bN2Jn1Kp/VSH-News-Logo.png"
   },
   {
     "title": "AWAZ TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/120M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/120M/playlist.m3u8",
     "img": "https://www.mjunoon.tv/uploads/categories/a/Awaz.png"
   },
   {
     "title": "TRT WORLD",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/153M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/153M/playlist.m3u8",
     "img": "https://images.mjunoon.tv:8181/logo/TRT-World.webp"
   },
   {
     "title": "ALJAZERA TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/148M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/148M/playlist.m3u8",
     "img": "https://i.postimg.cc/yNj8RcYX/Aljazera.png"
   },
   {
     "title": "CHAMPION TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/177M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/177M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/champion-tv-live.png"
   },
   {
     "title": "A1 TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/184M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/184M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/a1-tv-live.png"
   },
   {
     "title": "8XM",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/131M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/131M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/8xm-live.png"
   },
   {
     "title": "JALWA TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/135M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/135M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/jalwa-tv-live.png"
   },
   {
     "title": "FILM WORLD",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/126M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/126M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/filmworld-live.png"
   },
   {
     "title": "CAPITAL TV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/111M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/111M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/capital-tv-live.png"
   },
   {
     "title": "FILMAX",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/158-1M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/158-1M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/filmax-live.png"
   },
   {
     "title": "MOVIE ONE",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/176M/playlist.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/176M/playlist.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/movie-one-live.png"
   },
   {
     "title": "AanTv",
-    "url": "https://cdn02khi.tamashaweb.com:8087/tamashatest/AAN-TV-abr/live/163H/chunks.m3u8",
+    "url": "https://cdn02khi.tamashaweb.com:8087/tamasha-dispersa-2/AAN-TV-abr/live/163H/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1681977574-logo.png"
   },
   {
     "title": "SabTv",
-    "url": "https://cdn23lhr.tamashaweb.com:8087/tamashatest/SabTV-abr/live/79-M/chunks.m3u8",
+    "url": "https://cdn23lhr.tamashaweb.com:8087/tamasha-dispersa-2/SabTV-abr/live/79-M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1686044497-logo.png"
   },
   {
     "title": "PTV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/tamashatest/174M/chunks.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/tamasha-dispersa-2/174M/chunks.m3u8",
     "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.png"
   }
-    ]
+]
