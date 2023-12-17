@@ -1,20 +1,686 @@
 [
   {
-    "title": "Al Hajj",
-    "time": "",
-    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-022-Al-Hajj.mp3",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4.jpg"
+    "itemno": "1",
+    "title": "Surah Al-Fatihah",
+    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-001-Al-Fatihah.mp3 ",
+    "time": "00:00:51"
   },
   {
-    "title": "Al Fatihah",
-    "time": "00:00:51",
-    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-001-Al-Fatihah.mp3",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4.jpg"
+    "itemno": "2 ",
+    "title": "Surah Al-Baqarah",
+    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-002-Al-Baqarah.mp3 ",
+    "time": "02:05:39 "
   },
   {
-    "title": "Surah Al-Baqarah",
-    "time": "02:05:39",
-    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-002-Al-Baqarah.mp3",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4.jpg"
+    "itemno": "3 ",
+    "title ": "Surah Al Imran ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-003-Aal-e-Imran.mp3 ",
+    "time ": "01:17:29 "
+  },
+  {
+    "itemno": "4 ",
+    "title ": "Surah An-Nisa u0027 ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-004-Al-Nisa.mp3 ",
+    "time ": "01:19:45 "
+  },
+  {
+    "itemno": "5 ",
+    "title ": "Surah Al-Ma u0027idah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-005-Al-Maidah.mp3 ",
+    "time ": "01:02:47 "
+  },
+  {
+    "itemno": "6 ",
+    "title ": "Surah Al-An u0027am ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-006-Al-Anam.mp3 ",
+    "time ": "01:12:15 "
+  },
+  {
+    "itemno": "7 ",
+    "title ": "Surah Al-A u0027raf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-007-Al-Araf.mp3 ",
+    "time ": "01:22:52 "
+  },
+  {
+    "itemno": "8 ",
+    "title ": "Surah Al-Anfal ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-008-Al-Anfal.mp3 ",
+    "time ": "00:30:23 "
+  },
+  {
+    "itemno": "9 ",
+    "title ": "Surah At-Tawbah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-009-Al-Tawbah.mp3 ",
+    "time ": "01:00:24 "
+  },
+  {
+    "itemno": "10 ",
+    "title ": "Surah Yunus ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-010-Yunus.mp3 ",
+    "time ": "00:44:50 "
+  },
+  {
+    "itemno": "11 ",
+    "title ": "Surah Hud ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-011-Hud.mp3 ",
+    "time ": "00:46:11 "
+  },
+  {
+    "itemno": "12 ",
+    "title ": "Surah Yusuf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-012-Yusuf.mp3 ",
+    "time ": "00:42:04 "
+  },
+  {
+    "itemno": "13 ",
+    "title ": "Surah Ar-Ra u0027d ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-013-Al-Rad.mp3 ",
+    "time ": "00:20:16 "
+  },
+  {
+    "itemno": "14 ",
+    "title ": "Surah Ibrahim ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-014-Ibrahim.mp3 ",
+    "time ": "00:15:54 "
+  },
+  {
+    "itemno": "15 ",
+    "title ": "Surah Al-Hijr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-015-Al-Hijr.mp3 ",
+    "time ": "00:15:54 "
+  },
+  {
+    "itemno": "16 ",
+    "title ": "Surah An-Nahl ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-016-Al-Nahl.mp3 ",
+    "time ": "00:42:08 "
+  },
+  {
+    "itemno": "17 ",
+    "title ": "Surah Al-Isra u0027 ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-017-Bani_Israil.mp3 ",
+    "time ": "00:35:13 "
+  },
+  {
+    "itemno": "18 ",
+    "title ": "Surah Al-Kahf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-018-Al-Kahf.mp3 ",
+    "time ": "00:33:15 "
+  },
+  {
+    "itemno": "19 ",
+    "title ": "Surah Maryam ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-019-Maryam.mp3 ",
+    "time ": "00:21:22 "
+  },
+  {
+    "itemno": "20 ",
+    "title ": "Surah Ta-ha ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-020-Ta-Ha.mp3 ",
+    "time ": "00:27:07 "
+  },
+  {
+    "itemno": "21 ",
+    "title ": "Surah Al-Anbiya u0027 ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-021-Al-Anbiya.mp3 ",
+    "time ": "00:26:10 "
+  },
+  {
+    "itemno": "22 ",
+    "title ": "Surah Al-Hajj ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-022-Al-Hajj.mp3 ",
+    "time ": "00:29:32 "
+  },
+  {
+    "itemno": "23 ",
+    "title ": "Surah Al-Mu u0027minun ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-023-Al-Muminun.mp3 ",
+    "time ": "00:24:45 "
+  },
+  {
+    "itemno": "24 ",
+    "title ": "Surah An-Nur ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-024-Al-Nur.mp3 ",
+    "time ": "00:30:40 "
+  },
+  {
+    "itemno": "25 ",
+    "title ": "Surah Al-Furqan ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-025-Al-Furqan.mp3 ",
+    "time ": "00:18:21 "
+  },
+  {
+    "itemno": "26 ",
+    "title ": "Surah Ash-Shu u0027ara ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-026-Al-Shuara.mp3 ",
+    "time ": "00:30:32 "
+  },
+  {
+    "itemno": "27 ",
+    "title ": "Surah An-Naml ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-027-Al-Naml.mp3 ",
+    "time ": "00:26:12 "
+  },
+  {
+    "itemno": "28 ",
+    "title ": "Surah Al-Qasas ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-028-Al-Qasas.mp3 ",
+    "time ": "00:31:43 "
+  },
+  {
+    "itemno": "29 ",
+    "title ": "Surah Al-Ankabut ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-029-Al-Ankabut.mp3 ",
+    "time ": "00:21:10 "
+  },
+  {
+    "itemno": "30 ",
+    "title ": "Surah Ar-Rum ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-030-Al-Rum.mp3 ",
+    "time ": "00:19:31 "
+  },
+  {
+    "itemno": "31 ",
+    "title ": "Surah Luqman ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-031-Luqman.mp3 ",
+    "time ": "00:11:55 "
+  },
+  {
+    "itemno": "32 ",
+    "title ": "Surah As-Sajdah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-032-Al-Sajdah.mp3 ",
+    "time ": "00:08:43 "
+  },
+  {
+    "itemno": "33 ",
+    "title ": "Surah Al-Ahzab ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-033-Al-Ahzab.mp3 ",
+    "time ": "00:29:02 "
+  },
+  {
+    "itemno": "34 ",
+    "title ": "Surah Saba u0027 ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-034-Saba.mp3 ",
+    "time ": "00:19:02 "
+  },
+  {
+    "itemno": "35 ",
+    "title ": "Surah Fatir ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-035-Fatir.mp3 ",
+    "time ": "00:17:36 "
+  },
+  {
+    "itemno": "36 ",
+    "title ": "Surah Ya-Seen ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-036-Ya-Sin.mp3 ",
+    "time ": "00:17:39 "
+  },
+  {
+    "itemno": "37 ",
+    "title ": "Surah As-Saaffat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-037-Al-Saffat.mp3 ",
+    "time ": "00:24:09 "
+  },
+  {
+    "itemno": "38 ",
+    "title ": "Surah Sad ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-038-Saad.mp3 ",
+    "time ": "00:17:49 "
+  },
+  {
+    "itemno": "39 ",
+    "title ": "Surah Az-Zumar ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-039-Al-Zumar.mp3 ",
+    "time ": "00:27:09 "
+  },
+  {
+    "itemno": "40 ",
+    "title ": "Surah Ghafir ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-040-Al-Mumin.mp3 ",
+    "time ": "00:26:07 "
+  },
+  {
+    "itemno": "41 ",
+    "title ": "Surah Fussilat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-041-Ha-Mim_Al-Sajdah.mp3 ",
+    "time ": "00:19:20 "
+  },
+  {
+    "itemno": "42 ",
+    "title ": "Surah Ash-Shura ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-042-Al-Shura.mp3 ",
+    "time ": "00:19:29 "
+  },
+  {
+    "itemno": "43 ",
+    "title ": "Surah Az-Zukhruf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-043-Al-Zukhruf.mp3 ",
+    "time ": "00:20:28 "
+  },
+  {
+    "itemno": "44 ",
+    "title ": "Surah Ad-Dukhan ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-044-Al-Dukhan.mp3 ",
+    "time ": "00:09:36 "
+  },
+  {
+    "itemno": "45 ",
+    "title ": "Surah Al-Jathiya ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-045-Al-Jathiah.mp3 ",
+    "time ": "00:10:20 "
+  },
+  {
+    "itemno": "46 ",
+    "title ": "Surah Al-Ahqaf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-046-Al-Ahqaf.mp3 ",
+    "time ": "00:15:57 "
+  },
+  {
+    "itemno": "47 ",
+    "title ": "Surah Muhammad ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-047-Muhammad.mp3 ",
+    "time ": "00:12:17 "
+  },
+  {
+    "itemno": "48 ",
+    "title ": "Surah Al-Fath ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-048-Al-Fath.mp3 ",
+    "time ": "00:12:01 "
+  },
+  {
+    "itemno": "49 ",
+    "title ": "Surah Al-Hujurat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-049-Al-Hujuraat.mp3 ",
+    "time ": "00:08:21 "
+  },
+  {
+    "itemno": "50 ",
+    "title ": "Surah Qaf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-050-Qaaf.mp3 ",
+    "time ": "00:09:19 "
+  },
+  {
+    "itemno": "51 ",
+    "title ": "Surah Adh-Dhariyat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-051-Al-Zariyaat.mp3 ",
+    "time ": "00:09:04 "
+  },
+  {
+    "itemno": "52 ",
+    "title ": "Surah At-Tur ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-052-Al-Toor.mp3 ",
+    "time ": "00:08:05 "
+  },
+  {
+    "itemno": "53 ",
+    "title ": "Surah An-Najm ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-053-Al-Najm.mp3 ",
+    "time ": "00:07:41 "
+  },
+  {
+    "itemno": "54 ",
+    "title ": "Surah Al-Qamar ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-054-Al-Qamar.mp3 ",
+    "time ": "00:08:02 "
+  },
+  {
+    "itemno": "55 ",
+    "title ": "Surah Ar-Rahman ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-055-Al-Rahman.mp3 ",
+    "time ": "00:11:19 "
+  },
+  {
+    "itemno": "56 ",
+    "title ": "Surah Al-Waqi u0027ah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-056-Al-Waqiah.mp3 ",
+    "time ": "00:11:56 "
+  },
+  {
+    "itemno": "57 ",
+    "title ": "Surah Al-Hadid ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-057-Al-Hadid.mp3 ",
+    "time ": "00:13:28 "
+  },
+  {
+    "itemno": "58 ",
+    "title ": "Surah Al-Mujadila ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-058-Al-Mujadalah.mp3 ",
+    "time ": "00:10:13 "
+  },
+  {
+    "itemno": "59 ",
+    "title ": "Surah Al-Hashr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-059-Al-Hashr.mp3 ",
+    "time ": "00:10:26 "
+  },
+  {
+    "itemno": "60 ",
+    "title ": "Surah Al-Mumtahana ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-060-Al-Mumtahinah.mp3 ",
+    "time ": "00:07:31 "
+  },
+  {
+    "itemno": "61 ",
+    "title ": "Surah As-Saf ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-061-Al-Saff.mp3 ",
+    "time ": "00:04:52 "
+  },
+  {
+    "itemno": "62 ",
+    "title ": "Surah Al-Jumu u0027ah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-062-Al-Jumuah.mp3 ",
+    "time ": "00:03:33 "
+  },
+  {
+    "itemno": "63 ",
+    "title ": "Surah Al-Munafiqun ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-063-Al-Munafiqun.mp3 ",
+    "time ": "00:04:18 "
+  },
+  {
+    "itemno": "64 ",
+    "title ": "Surah At-Taghabun ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-064-Al-Taghabun.mp3 ",
+    "time ": "00:05:54 "
+  },
+  {
+    "itemno": "65 ",
+    "title ": "Surah At-Talaq ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-065-Al-Talaq.mp3 ",
+    "time ": "00:06:01 "
+  },
+  {
+    "itemno": "66 ",
+    "title ": "Surah At-Tahrim ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-066-Al-Tahrim.mp3 ",
+    "time ": "00:05:57 "
+  },
+  {
+    "itemno": "67 ",
+    "title ": "Surah Al-Mulk ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-067-Al-Mulk.mp3 ",
+    "time ": "00:07:35 "
+  },
+  {
+    "itemno": "68 ",
+    "title ": "Surah Al-Qalam ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-068-Al-Qalam.mp3 ",
+    "time ": "00:07:36 "
+  },
+  {
+    "itemno": "69 ",
+    "title ": "Surah Al-Haqqah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-069-Al-Haqqah.mp3 ",
+    "time ": "00:06:45 "
+  },
+  {
+    "itemno": "70 ",
+    "title ": "Surah Al-Ma u0027arij ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-070-Al-Maarij.mp3 ",
+    "time ": "00:05:17 "
+  },
+  {
+    "itemno": "71 ",
+    "title ": "Surah Nuh ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-071-Nuh.mp3 ",
+    "time ": "00:04:40 "
+  },
+  {
+    "itemno": "72 ",
+    "title ": "Surah Al-Jinn ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-072-Al-Jinn.mp3 ",
+    "time ": "00:04:40 "
+  },
+  {
+    "itemno": "73 ",
+    "title ": "Surah Al-Muzzammil ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-073-Al-Muzzammil.mp3 ",
+    "time ": "00:04:04 "
+  },
+  {
+    "itemno": "74 ",
+    "title ": "Surah Al-Muddaththir ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-074-Al-Muddaththir.mp3 ",
+    "time ": "00:05:24 "
+  },
+  {
+    "itemno": "75 ",
+    "title ": "Surah Al-Qiyamah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-075-Al-Qiyamah.mp3 ",
+    "time ": "00:03:31 "
+  },
+  {
+    "itemno": "76 ",
+    "title ": "Surah Al-Insan ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-076-Al-Dahr.mp3 ",
+    "time ": "00:05:14 "
+  },
+  {
+    "itemno": "77 ",
+    "title ": "Surah Al-Mursalat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-077-Al-Mursalaat.mp3 ",
+    "time ": "00:04:45 "
+  },
+  {
+    "itemno": "78 ",
+    "title ": "Surah An-Naba ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-078-Al-Naba.mp3 ",
+    "time ": "00:04:52 "
+  },
+  {
+    "itemno": "79 ",
+    "title ": "Surah An-Nazi u0027at ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-079-Al-Naziaat.mp3 ",
+    "time ": "00:04:16 "
+  },
+  {
+    "itemno": "80 ",
+    "title ": "Surah  u0027Abasa ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-080-Abasa.mp3 ",
+    "time ": "00:03:40 "
+  },
+  {
+    "itemno": "81 ",
+    "title ": "Surah At-Takwir ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-081-Al-Takwir.mp3 ",
+    "time ": "00:02:38 "
+  },
+  {
+    "itemno": "82 ",
+    "title ": "Surah Al-Infitar ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-082-Al-Infitar.mp3 ",
+    "time ": "00:02:16 "
+  },
+  {
+    "itemno": "83 ",
+    "title ": "Surah Al-Mutaffifin ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-083-Al-Mutaffifin.mp3 ",
+    "time ": "00:05:10 "
+  },
+  {
+    "itemno": "84 ",
+    "title ": "Surah Al-Inshiqaq ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-084-Al-Inshiqaq.mp3 ",
+    "time ": "00:02:40 "
+  },
+  {
+    "itemno": "85 ",
+    "title ": "Surah Al-Buruj ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-085-Al-Buruj.mp3 ",
+    "time ": "00:03:18 "
+  },
+  {
+    "itemno": "86 ",
+    "title ": "Surah At-Tariq ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-086-Al-Tariq.mp3 ",
+    "time ": "00:01:40 "
+  },
+  {
+    "itemno": "87 ",
+    "title ": "Surah Al-A u0027la ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-087-Al-Ala.mp3 ",
+    "time ": "00:01:47 "
+  },
+  {
+    "itemno": "88 ",
+    "title ": "Surah Al-Ghashiyah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-088-Al-Ghashiyah.mp3 ",
+    "time ": "00:02:14 "
+  },
+  {
+    "itemno": "89 ",
+    "title ": "Surah Al-Fajr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-089-Al-Fajr.mp3 ",
+    "time ": "00:03:32 "
+  },
+  {
+    "itemno": "90 ",
+    "title ": "Surah Al-Balad ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-090-Al-Balad.mp3 ",
+    "time ": "00:02:00 "
+  },
+  {
+    "itemno": "91 ",
+    "title ": "Surah Ash-Shams ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-091-Al-Shams.mp3 ",
+    "time ": "00:01:24 "
+  },
+  {
+    "itemno": "92 ",
+    "title ": "Surah Al-Layl ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-092-Al-Lail.mp3 ",
+    "time ": "00:01:51 "
+  },
+  {
+    "itemno": "93 ",
+    "title ": "Surah Ad-Dhuhaa ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-093-Al-Duha.mp3 ",
+    "time ": "00:01:05 "
+  },
+  {
+    "itemno": "94 ",
+    "title ": "Surah Ash-Sharh ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-094-Al-Sharh.mp3 ",
+    "time ": "00:00:43 "
+  },
+  {
+    "itemno": "95 ",
+    "title ": "Surah At-Tin ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-095-Al-Tin.mp3 ",
+    "time ": "00:01:04 "
+  },
+  {
+    "itemno": "96 ",
+    "title ": "Surah Al- u0027Alaq ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-096-Al-Alaq.mp3 ",
+    "time ": "00:01:35 "
+  },
+  {
+    "itemno": "97 ",
+    "title ": "Surah Al-Qadr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-097-Al-Qadr.mp3 ",
+    "time ": "00:00:45 "
+  },
+  {
+    "itemno": "98 ",
+    "title ": "Surah Al-Bayyinah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-098-Al-Bayyinah.mp3 ",
+    "time ": "00:02:06 "
+  },
+  {
+    "itemno": "99 ",
+    "title ": "Surah Az-Zalzalah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-099-Al-Zilzal.mp3 ",
+    "time ": "00:00:59 "
+  },
+  {
+    "itemno": "100 ",
+    "title ": "Surah Al-Adiyat ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-100-Al-Aadiyaat.mp3 ",
+    "time ": "00:01:10 "
+  },
+  {
+    "itemno": "101 ",
+    "title ": "Surah Al-Qari u0027ah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-101-Al-Qariah.mp3 ",
+    "time ": "00:01:02 "
+  },
+  {
+    "itemno": "102 ",
+    "title ": "Surah At-Takathur ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-102-Al-Takathur.mp3 ",
+    "time ": "00:01:02 "
+  },
+  {
+    "itemno": "103 ",
+    "title ": "Surah Al-Asr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-103-Al-Asr.mp3 ",
+    "time ": "00:00:27 "
+  },
+  {
+    "itemno": "104 ",
+    "title ": "Surah Al-Humazah ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-104-Al-Humazah.mp3 ",
+    "time ": "00:00:58 "
+  },
+  {
+    "itemno": "105 ",
+    "title ": "Surah Al-Fil ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-105-Al-Fil.mp3 ",
+    "time ": "00:00:48 "
+  },
+  {
+    "itemno": "106 ",
+    "title ": "Surah Quraysh ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-106-Quraish.mp3 ",
+    "time ": "00:00:42 "
+  },
+  {
+    "itemno": "107 ",
+    "title ": "Surah Al-Ma u0027un ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-107-Al-Maun.mp3 ",
+    "time ": "00:00:57 "
+  },
+  {
+    "itemno": "108 ",
+    "title ": "Surah Al-Kawthar ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-108-Al-Kawthar.mp3 ",
+    "time ": "00:00:24 "
+  },
+  {
+    "itemno": "109 ",
+    "title ": "Surah Al-Kafirun ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-109-Al-Kafirun.mp3 ",
+    "time ": "00:00:54 "
+  },
+  {
+    "itemno": "110 ",
+    "title ": "Surah An-Nasr ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-110-Al-Nasr.mp3 ",
+    "time ": "00:00:34 "
+  },
+  {
+    "itemno": "111 ",
+    "title ": "Surah Al-Masad ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-111-Al-Lahab.mp3 ",
+    "time ": "00:00:41 "
+  },
+  {
+    "itemno": "112 ",
+    "title ": "Surah Al-Ikhlas ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-112-Al-Ikhlas.mp3 ",
+    "time ": "00:00:21 "
+  },
+  {
+    "itemno": "113 ",
+    "title ": "Surah Al-Falaq ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-113-Al-Falaq.mp3 ",
+    "time ": "00:00:33 "
+  },
+  {
+    "itemno": "114 ",
+    "title ": "Surah An-Nas ",
+    "url ": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-114-Al-Naas.mp3 ",
+    "time ": "00:00:50 "
   }
 ]
