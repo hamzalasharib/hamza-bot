@@ -1,13 +1,28 @@
 [
   {
-    "title": "Asia Cup",
-    "url": "https://jwmedia.jazz.com.pk/Qiraat_Mishari-022-Al-Hajj.mp3",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/1691225930.png"
+    "title": "T20 ICC WORLDCUP(240P)",
+    "url": "https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_240p.m3u8?uuid=FFAAFFFF-21b9-7e62-735e-22ab69e579ae",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1717579821338.webp?id=21"
+  },
+  {
+    "title": "T20 ICC WORLDCUP(360P)",
+    "url": "https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_360p.m3u8?uuid=FFAAFFFF-21b9-7e62-735e-22ab69e579ae",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1717579821338.webp?id=21"
+  },
+  {
+    "title": "T20 ICC WORLDCUP(720P)",
+    "url": "https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_720p.m3u8?uuid=FFAAFFFF-21b9-7e62-735e-22ab69e579ae",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1717579821338.webp?id=21"
+  },
+  {
+    "title": "GREEN TV",
+    "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=53"
   },
   {
     "title": "MADNI TV",
     "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Madni-abr/playlist.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/madani-channel-live.png?id\u003d14"
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/logo/madani-channel-live.png?id=14"
   },
   {
     "title": "MAKKAH TV",
@@ -22,7 +37,7 @@
   {
     "title": "DHA-MATCH",
     "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/DHA-source-abr/live/DHA-source_720p/chunks.m3u8",
-    "img": "https://jazztv.pk/jazzlive/uploads/channels/1688631993-logo.png?id\u003d34"
+    "img": "https://jazztv.pk/jazzlive/uploads/channels/1688631993-logo.png?id=34"
   },
   {
     "title": "TEN SPORTS",
@@ -438,5 +453,10 @@
     "title": "SabTv",
     "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/79-M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1686044497-logo.png"
+  },
+  {
+    "title": "PTV",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/174M/chunks.m3u8",
+    "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.png"
   }
 ]
