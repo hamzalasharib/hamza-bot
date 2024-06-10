@@ -438,10 +438,5 @@
     "title": "SabTv",
     "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SabTV-abr/live/79-M/chunks.m3u8",
     "img": "https://jazztv.pk/jazzlive/uploads/channels/1686044497-logo.png"
-
-  {
-    "title": "PTV",
-    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/174M/chunks.m3u8",
-    "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.png"
   }
-    ]
+]
