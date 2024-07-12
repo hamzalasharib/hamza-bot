@@ -1,0 +1,397 @@
+[
+{
+      "channelName": "Geo News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/geonews-137/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-news-live.webp?id=73"
+    },
+    {
+      "channelName": "ARY News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/83M/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1684242189-logo.webp?id=40"
+    },
+    {
+      "channelName": "Hum TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/82H/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-TV-Channel-logo.webp?id=32"
+    },
+    {
+      "channelName": "ARY Digital",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/84H/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-digital-live-logo.webp?id=57"
+    },
+    {
+      "channelName": "Geo Entertainment",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/geoent-122/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-entertainment-live.webp?id=64"
+    },
+    {
+      "channelName": "BOL Entertainment",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/bolnent-159-4/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=72"
+    },
+    {
+      "channelName": "Express News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ExpressNews-155/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-news-live.webp?id=15"
+    },
+    {
+      "channelName": "Dawn News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/DW-136-4A/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/dawn-news-live.webp?id=51"
+    },
+    {
+      "channelName": "BOL News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/bol-news-live/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-news-live.webp?id=39"
+    },
+    {
+      "channelName": "Hum News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Hum-news-80/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-News-Channel-logo.webp?id=28"
+    },
+    {
+      "channelName": "Eurosport",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440-logo.webp?id=71"
+    },
+    {
+      "channelName": "ARY Zindagi",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/85H/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.webp?id=27"
+    },
+    {
+      "channelName": "Hum Sitaray",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=45"
+    },
+    {
+      "channelName": "Hum Masala",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/HumSitaray-157-4/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Masala-Channel-logo.webp?id=15"
+    },
+    {
+      "channelName": "CNN",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cnn-news-live.webp?id=78"
+    },
+    {
+      "channelName": "Cartoon Network",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cartoon-network-live.webp?id=47"
+    },
+    {
+      "channelName": "Express Entertainment",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/EXP-ENT-159-1/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=70"
+    },
+    {
+      "channelName": "ABN News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912075-logo.webp?id=44"
+    },
+    {
+      "channelName": "TV One",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/TV1-129/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/tv-one-live.webp?id=31"
+    },
+    {
+      "channelName": "Madani Channel",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/madani-channel-live.webp?id=96"
+    },
+    {
+      "channelName": "GNN",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/gnn-live.webp?id=48"
+    },
+    {
+      "channelName": "FILMWORLD",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Filmworld-126/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmworld-live.webp?id=92"
+    },
+    {
+      "channelName": "FILMAX",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/filmax-158-1/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmax-live.webp?id=66"
+    },
+    {
+      "channelName": "Kashish",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Kashish-150/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kashish-live.webp?id=40"
+    },
+    {
+      "channelName": "AAJ News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/AAJNews-124/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-news-live.webp?id=56"
+    },
+    {
+      "channelName": "A PLUS",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/APlus-118/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=89"
+    },
+    {
+      "channelName": "Sindh TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SindhTV-136-1/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-live.webp?id=16"
+    },
+    {
+      "channelName": "LTN Family (Previously Filmazia)",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ltn-family-158-2/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=65"
+    },
+    {
+      "channelName": "NEO News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/neo-tv-live.webp?id=59"
+    },
+    {
+      "channelName": "KTN News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-news-live.webp?id=77"
+    },
+    {
+      "channelName": "ARUJ",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ArujTV-ArujTV-117/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aruj-live.webp?id=88"
+    },
+    {
+      "channelName": "24 NEWS HD",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/24HD-146/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/channel-24-live.webp?id=90"
+    },
+    {
+      "channelName": "Such TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/sachtv-183/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/such-tv-live.webp?id=44"
+    },
+    {
+      "channelName": "Roze News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/RozeNews-139/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/roze-news-live.webp?id=19"
+    },
+    {
+      "channelName": "Play TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/playtv-154/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/play-tv-live.webp?id=12"
+    },
+    {
+      "channelName": "AAJ Entertainment",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/AAJENT-125/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-entertainment-live.webp?id=21"
+    },
+    {
+      "channelName": "Discover Pakistan",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/discoverypak-132/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/discover-pakistan-live-logo.webp?id=14"
+    },
+    {
+      "channelName": "Lahore Rang",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/lahore-rang-logo.webp?id=71"
+    },
+    {
+      "channelName": "News One",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/news-one-live.webp?id=92"
+    },
+    {
+      "channelName": "Mehran TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/mehrantv-159-2/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/mehran-tv-logo.webp?id=21"
+    },
+    {
+      "channelName": "Public News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/public-115/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/public-news-live.webp?id=34"
+    },
+    {
+      "channelName": "A1TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/A1-184/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a1-tv-live.webp?id=26"
+    },
+    {
+      "channelName": "AVT Khyber TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/AVTKhyber-114/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685537734-logo.webp?id=100"
+    },
+    {
+      "channelName": "Channel 5",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/channel-five-live.webp?id=16"
+    },
+    {
+      "channelName": "CITY 42",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/City42-144/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/city-42-live.webp?id=24"
+    },
+    {
+      "channelName": "Metro 1 News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/metro1-175/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/metro-1-news-live.webp?id=72"
+    },
+    {
+      "channelName": "Sindh TV News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SindhNews-136-2/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-news-live.webp?id=40"
+    },
+    {
+      "channelName": "Afghan TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/AfghanTV-140/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/afghan-tv-live.webp?id=17"
+    },
+    {
+      "channelName": "Time News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/time-news-live.webp?id=63"
+    },
+    {
+      "channelName": "Rohi",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ROHI-147/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/rohi-live.webp?id=53"
+    },
+    {
+      "channelName": "Khyber News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/KhyberNews-160/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685537412-logo.webp?id=94"
+    },
+    {
+      "channelName": "K21 News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/K21-K21News-116/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/k21-news-live.webp?id=66"
+    },
+    {
+      "channelName": "Saudi Sunnah Madinah TV HD",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-sunnah-madinah-tv-hd-live.webp?id=86"
+    },
+    {
+      "channelName": "Waseb",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/waseb-live.webp?id=27"
+    },
+    {
+      "channelName": "City 41",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/City41-143/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/city41-live.webp?id=37"
+    },
+    {
+      "channelName": "Saudi Quran Makkah TV HD",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-quran-makkah-tv-hd-live.webp?id=32"
+    },
+    {
+      "channelName": "Mashriq TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Mashriq-131/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/mashriq-tv-live.webp?id=84"
+    },
+    {
+      "channelName": "DW English",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/DW-136-4A/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/DW-english-live.webp?id=31"
+    },
+    {
+      "channelName": "Kohenoor TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Kohenoor-134/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kohenoor-tv-live.webp?id=42"
+    },
+    {
+      "channelName": "Samaa TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-17/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/samaa-tv-live.webp?id=76"
+    },
+    {
+      "channelName": "8XM",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=39"
+    },
+    {
+      "channelName": "KTN Entertainment",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/KTN-14KTN-14/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-entertainment-live.webp?id=98"
+    },
+    {
+      "channelName": "URDU 1",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Urdu1-158-4/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/urdu-1-live.webp?id=34"
+    },
+    {
+      "channelName": "Baby TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/babytv-77/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/baby-tv-live.webp?id=40"
+    },
+    {
+      "channelName": "Apna Channel",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/apna-tv-live.webp?id=44"
+    },
+    {
+      "channelName": "Abb Takk News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/AbbTakNews-133/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/abb-takk-news-live.webp?id=92"
+    },
+    {
+      "channelName": "Jalwa TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Jalwa-137/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=60"
+    },
+    {
+      "channelName": "Movie One",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/MovieOne-138/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/movie-one-live.webp?id=92"
+    },
+    {
+      "channelName": "SEE TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/SeeTV-145/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/see-tv-live.webp?id=22"
+    },
+    {
+      "channelName": "Champion TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Champion-146/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/champion-tv-live.webp?id=46"
+    },
+    {
+      "channelName": "Kay2 TV",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Kay2-149/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685535127-logo.webp?id=79"
+    },
+    {
+      "channelName": "PNN News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/PNN-135/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/pnn-news-live.webp?id=100"
+    },
+    {
+      "channelName": "Pashto 1",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Pashto1-150/playlist.m3u8",
+      "logo": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Pashto-Channel-logo.webp?id=45"
+    },
+    {
+      "channelName": "Al Jazeera",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/148M/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU"
+    },
+    {
+      "channelName": "TRT World",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/153M/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTmbEQDeJUCQu13aR_kmLkGptUMO8MBtycg&usqp=CAU"
+    },
+    {
+      "channelName": "Dawn News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/DawnNews-152/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gX9iZxueQuCuKya7TBgNqxM460kea1LXwg&usqp=CAU"
+    },
+    {
+      "channelName": "A Tv Pak",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/123M/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RvkNWBHOD8g7ykJrwP6NvKnSDHaWWlzxfQ&usqp=CAU"
+    },
+    {
+      "channelName": "PTV Home",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/174H/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkLY7IEQFtnYJ37ho7ylTOizOEZnG-6dX-3g&usqp=CAU"
+    },
+    {
+      "channelName": "Dunya News",
+      "channelUrl": "https://vodzong.mjunoon.tv:8087/streamtest/DunyaNews-113/playlist.m3u8",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKU_4xTmc81LQllz0JbxBl19BrvYOJ4hwfw&usqp=CAU"
+    }
+    ]
