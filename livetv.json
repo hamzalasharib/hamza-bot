@@ -1,7 +1,7 @@
 [
 {
     "title": "Color Tv",
-    "url": "https://cdn05khi.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8",
     "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189602356.webp?id=18"
   },
 {
@@ -16,7 +16,7 @@
   },
   {
     "title": "Color Tv",
-    "url": "https://cdn05khi.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8?nimblesessionid=131916307&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMjoyNjoxNiBBTSZoYXNoX3ZhbHVlPWh6TUNMK05wd3pTS1JEYzNCT0VWdVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8?nimblesessionid=131916307&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMjoyNjoxNiBBTSZoYXNoX3ZhbHVlPWh6TUNMK05wd3pTS1JEYzNCT0VWdVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
     "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189602356.webp?id=18"
   },
   {
@@ -455,4 +455,33 @@
     "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmworld-live.webp"
   },
   {
-    
+    "title": "CAPITAL TV",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/111M/playlist.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/capital-tv-live.webp"
+  },
+  {
+    "title": "FILMAX",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/158-1M/playlist.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmax-live.webp"
+  },
+  {
+    "title": "MOVIE ONE",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/176M/playlist.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/movie-one-live.webp"
+  },
+  {
+    "title": "AanTv",
+    "url": "https://cdn02khi.tamashaweb.com:8087/YlUHeDQb7a/AAN-TV-abr/live/163H/chunks.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1681977574-logo.webp"
+  },
+  {
+    "title": "SabTv",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/SabTV-abr/live/79-M/chunks.m3u8",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp"
+  },
+  {
+    "title": "PTV",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/174M/chunks.m3u8",
+    "img": "https://ptv.com.pk/user/assets/images/History/ptvhome.webp"
+  }
+]
