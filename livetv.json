@@ -1,40 +1,375 @@
 [
-{
-    "title": "PSL 10",
-    "url": "https://cdn06khi.tamashaweb.com:8087/jazzauth/PSL10-abr/playlist.m3u8",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1744025407797.webp?id=98"
-  },
-{
-    "title": "Color Tv",
-    "url": "https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189602356.webp?id=18"
-  },
-{
-    "title": "Color Tv",
-    "url": "https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/MTV-India-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgOTowNzoyNCBBTSZoYXNoX3ZhbHVlPXBTS0g1Wlk4NmFqNGwrWjhlbXpZN3c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189788666.webp?id=65"
+  {
+    "title": "MMA",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1734528338327.webp?id=26",
+    "url": "https://cdn06khi.tamashaweb.com:8087/jazzauth/MMA-abr/playlist.m3u8"
   },
   {
-    "title": "Animal Tv",
-    "url": "https://cdn21lhr.tamashaweb.com:8087/YlUHeDQb7a/AnimalPlanet-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgOTowNToyOSBBTSZoYXNoX3ZhbHVlPTVmdE4wWW5YMzY0QmJkY0l4WlBicVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719302841450.webp?id=52"
+    "title": "Saudimakkah(nw)",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-quran-makkah-tv-hd-live.webp?id=43",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8"
   },
   {
-    "title": "Color Tv",
-    "url": "https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/Colors-HD-abr/live/Colors-HD_480p/chunks.m3u8?nimblesessionid=131916307&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMjoyNjoxNiBBTSZoYXNoX3ZhbHVlPWh6TUNMK05wd3pTS1JEYzNCT0VWdVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720189602356.webp?id=18"
+    "title": "SaudiSunnah(NW)",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-sunnah-madinah-tv-hd-live.webp?id=38",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8"
   },
   {
-    "title": "WCL 2024",
-    "url": "https://cdn18lhr.tamashaweb.com:8087/YlUHeDQb7a/WCL2024-abr/live/WCL2024_480p/chunks.m3u8",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719644447959.webp?id=70"
+    "title": "Madni",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/madani-channel-live.webp?id=59",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Madni-abr/playlist.m3u8"
   },
   {
-    "title": "T20 ICC WORLDCUP(240P)",
-    "url": "https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_240p.m3u8?uuid=FFAAFFFF-21b9-7e62-735e-22ab69e579ae",
-    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1717579821338.webp?id=21"
+    "title": "PTVSports",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321954030.webp?id=11",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/189H/playlist.m3u8"
   },
   {
+    "title": "Eurosport",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440-logo.webp?id=37",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+  },
+  {
+    "title": "Tensports",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ten-sports-hd-logo.webp?id=64",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8"
+  },
+  {
+    "title": "GeoEntertainment",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd734PEj2XCDuIVyWn1n9Lx2FGKfBncSLwMbZwcdmNHcS-gkYV546a8bYo&s=10",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "humTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-TV-Channel-logo.webp?id=30",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "Green_Entertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=17",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "AAN-TV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1681977574-logo.webp?id=23",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8"
+  },
+  {
+    "title": "SabTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=59",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "AurLife",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1745518766547.webp?id=58",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8"
+  },
+  {
+    "title": "SetEntertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1730720761397.webp?id=47",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "Bol Entertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=33",
+    "url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "Inplus",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720441424490.webp?id=34",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8"
+  },
+  {
+    "title": "PTVHome",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321510303.webp?id=64",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8"
+  },
+  {
+    "title": "ARYdigital",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-digital-live-logo.webp?id=27",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8"
+  },
+  {
+    "title": "ARYzindagi",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.webp?id=68",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8"
+  },
+  {
+    "title": "ARYnews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1684242189-logo.webp?id=18",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8"
+  },
+  {
+    "title": "geoNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-news-live.webp?id=34",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "BolNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-news-live.webp?id=78",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/BolNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "humnews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-News-Channel-logo.webp?id=13",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8"
+  },
+  {
+    "title": "Suno_News",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1709545345-logo.webp?id=85",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8"
+  },
+  {
+    "title": "365News",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1745518926422.webp?id=31",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8"
+  },
+  {
+    "title": "Tamasha-News",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1744124970890.webp?id=70",
+    "url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/playlist.m3u8"
+  },
+  {
+    "title": "ExpressEntertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=31",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "LTNFamily",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=50",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8"
+  },
+  {
+    "title": "Aplus",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=46",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8"
+  },
+  {
+    "title": "TVOne",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/tv-one-live.webp?id=68",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8"
+  },
+  {
+    "title": "HumSitaray",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=96",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8"
+  },
+  {
+    "title": "AajEntertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-entertainment-live.webp?id=95",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "8xm",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=90",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8"
+  },
+  {
+    "title": "jalwa",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=19",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8"
+  },
+  {
+    "title": "seeTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/see-tv-live.webp?id=43",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/seeTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "Kay2",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685535127-logo.webp?id=79",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8"
+  },
+  {
+    "title": "expressnews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-news-live.webp?id=58",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/expressnews-abr/playlist.m3u8"
+  },
+  {
+    "title": "DawnNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/dawn-news-live.webp?id=28",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "ABNnews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912075-logo.webp?id=65",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ABNnews-abr/playlist.m3u8"
+  },
+  {
+    "title": "PNN",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/AIKNEWS-LOGO.webp?id=35",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8"
+  },
+  {
+    "title": "24News",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/channel-24-live.webp?id=32",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8"
+  },
+  {
+    "title": "GTVNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/gtv-new-logo.webp?id=52",
+    "url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "NeoNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/neo-tv-live.webp?id=57",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "samaaTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/samaa-tv-live.webp?id=47",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "GNN",
+    "img": "httpsD://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/gnn-live.webp?id=79",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8"
+  },
+  {
+    "title": "DiscoveryPakistan",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/discover-pakistan-live-logo.webp?id=78",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8"
+  },
+  {
+    "title": "DiscoveryHD",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749016875362.webp?id=75",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8"
+  },
+  {
+    "title": "AnimalPlanet",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719302840733.webp?id=77",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8"
+  },
+  {
+    "title": "CgtnDocumentary",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749124897580.webp?id=50",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/CgtnDocumentary-abr/playlist.m3u8"
+  },
+  {
+    "title": "CgtnHD",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749124554903.webp?id=93",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/145H/playlist.m3u8"
+  },
+  {
+    "title": "waseeb",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/waseb-live.webp?id=87",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8"
+  },
+  {
+    "title": "KashishTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kashish-live.webp?id=100",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/KashishTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "MehranTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/mehran-tv-logo.webp?id=47",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "ktnEntertainment",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-entertainment-live.webp?id=14",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8"
+  },
+  {
+    "title": "sindhTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-live.webp?id=34",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "ktnNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-news-live.webp?id=55",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "TimeNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/time-news-live.webp?id=51",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "SindhNews",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-news-live.webp?id=12",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/SindhNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "Minimax",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702633459-logo.webp?id=67",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8"
+  },
+  {
+    "title": "PTV National",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322366525.webp?id=66",
+    "url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/193H/playlist.m3u8"
+  },
+  {
+    "title": "PTV NEWS",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321735602.webp?id=65",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/191H/playlist.m3u8"
+  },
+  {
+    "title": "PTVWorld",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322208140.webp?id=78",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/191H/playlist.m3u8"
+  },
+  {
+    "title": "PTVbolan",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322527745.webp?id=64",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/194H/playlist.m3u8"
+  },
+  {
+    "title": "cartoonnetwork",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cartoon-network-live.webp?id=26",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8"
+  },
+  {
+    "title": "Baby TV",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YdSY2I38OrlFkVHj3adu8AwvCFpz_Ykrg5E7HqmdCxPGNEEpCyTwRw8&s=10",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "apna",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/apna-tv-live.webp?id=24",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Apna-abr/playlist.m3u8"
+  },
+  {
+    "title": "Q1TV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a1-tv-live.webp?id=92",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8"
+  },
+  {
+    "title": "Filmax",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmax-live.webp?id=19",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/Filmax-abr/playlist.m3u8"
+  },
+  {
+    "title": "ArujTV",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aruj-live.webp?id=48",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8"
+  },
+  {
+    "title": "DuniyaNews",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoo6-K4XuN90Dr8wFTrcCGrKsaHvPl2_gSDnB21gJRLe1Po-qn7grOmcE&s=10",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/DuniyaNews-abr/playlist.m3u8"
+  },
+  {
+    "title": "Suno_News",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUscYNlJMx2KNuPr7yU56iEaMDuhfUoWtTom6LDxHeX3lRqPE4dhmL3itS&s=10",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/111M/playlist.m3u8"
+  },
+  {
+    "title": "K21",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/k21-news-live.webp?id=40",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/K21-abr/playlist.m3u8"
+  },
+  {
+    "title": "NewsOne",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/news-one-live.webp?id=24",
+    "url": "https://cdn12isb.tamashaweb.com:8087/YlUHeDQb7a/NewsOne-abr/playlist.m3u8"
+  },
+  {
+    "title": "abbtak",
+    "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/abb-takk-news-live.webp?id=2",
+    "url": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/abbtak-abr/playlist.m3u8"
+  }
+]  {
     "title": "T20 ICC WORLDCUP(360P)",
     "url": "https://tencentscdn.tamashaweb.com/v1/0188b99654681eb401a6029b3603/0188b9979aad1eb401a6029b3606/tamashapsl2024_360p.m3u8?uuid=FFAAFFFF-21b9-7e62-735e-22ab69e579ae",
     "img": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1717579821338.webp?id=21"
