@@ -1,24 +1,24 @@
 {
   "version": 1,
   "app": {
-    "latest_version_code": 3.3,
-    "latest_version_name": "3.3",
+    "latest_version_code": 3,
+    "latest_version_name": "3.0",
     "min_version_code": 1,
-    "update_url": "http",
+    "update_url": "",
     "force_update": false,
-    "update_message": "Hello"
+    "update_message": ""
   },
   "announcement": {
     "id": 0,
-    "title": "hi",
-    "message": "yes",
+    "title": "",
+    "message": "",
     "button_text": "OK",
-    "button_url": "No"
+    "button_url": ""
   },
   "notification": {
     "id": 0,
-    "title": "2",
-    "message": "djdhdhdhd"
+    "title": "",
+    "message": ""
   },
   "maintenance": {
     "enabled": false,
@@ -69,6 +69,30 @@
       "username": "danaelssh-hamzabhai",
       "password": "hamza",
       "sni": "143.204.106.77",
+      "payload": "GET / HTTP/1.1[crlf]Host: d37bawnvqx75hf.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "proxy_host": "",
+      "proxy_port": 0
+    },
+    {
+      "name": "HAMZA BHAI CLOUD (WSS 443)",
+      "mode": "wss",
+      "host": "d37bawnvqx75hf.cloudfront.net",
+      "port": 443,
+      "username": "danaelssh-hamzabhai",
+      "password": "hamza",
+      "sni": "143.204.106.77",
+      "payload": "GET / HTTP/1.1[crlf]Host: d37bawnvqx75hf.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "proxy_host": "",
+      "proxy_port": 0
+    },
+    {
+      "name": "HAMZA BHAI CLOUD (Front IP)",
+      "mode": "websocket",
+      "host": "143.204.106.77",
+      "port": 80,
+      "username": "danaelssh-hamzabhai",
+      "password": "hamza",
+      "sni": "d37bawnvqx75hf.cloudfront.net",
       "payload": "GET / HTTP/1.1[crlf]Host: d37bawnvqx75hf.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
       "proxy_host": "",
       "proxy_port": 0
