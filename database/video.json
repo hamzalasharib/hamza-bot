@@ -1,1 +1,66 @@
-["GojoSatoru"]
+{
+  "version": 1,
+  "app": {
+    "latest_version_code": 3,
+    "latest_version_name": "3.0",
+    "min_version_code": 1,
+    "update_url": "",
+    "force_update": false,
+    "update_message": "TEST MESSAGE"
+  },
+  "announcement": {
+    "id": 0,
+    "title": "",
+    "message": "",
+    "button_text": "OK",
+    "button_url": ""
+  },
+  "notification": {
+    "id": 0,
+    "title": "",
+    "message": ""
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": ""
+  },
+  "servers": [
+    {
+      "name": "Hamza Server 1",
+      "mode": "websocket",
+      "host": "143.204.106.77",
+      "port": 80,
+      "username": "ADM-SSH-ELBUHOVPS",
+      "password": "",
+      "sni": "",
+      "payload": "GET / HTTP/1.1[crlf]Host: proxy-server.http-store-vpn.cloud[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "proxy_host": "",
+      "proxy_port": 0
+    },
+    {
+      "name": "JIO CLOUD ONLY 4G",
+      "mode": "payload",
+      "host": "d2htdw8fj0jdwe.cloudfront.net",
+      "port": 80,
+      "username": "danaelssh-Lhjjj",
+      "password": "hhsjs",
+      "sni": "d2htdw8fj0jdwe.cloudfront.net",
+      "payload": "GET / HTTP/1.1[crlf]Host: d2htdw8fj0jdwe.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+      "proxy_host": "56.228.42.116",
+      "proxy_port": 443
+    },
+    {
+      "name": "JIO CLOUD ONLY 4G (Direct WS)",
+      "mode": "websocket",
+      "host": "d2htdw8fj0jdwe.cloudfront.net",
+      "port": 80,
+      "username": "danaelssh-Lhjjj",
+      "password": "hhsjs",
+      "sni": "d2htdw8fj0jdwe.cloudfront.net",
+      "payload": "GET / HTTP/1.1[crlf]Host: d2htdw8fj0jdwe.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+      "proxy_host": "",
+      "proxy_port": 0
+    }
+  ],
+  "tweaks": []
+}
